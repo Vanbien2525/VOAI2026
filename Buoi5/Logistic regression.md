@@ -3,8 +3,6 @@
 *Dựa trên bài giảng gốc của TS. Đỗ Phúc Hảo, ngày 25/8/2026*
 *Phần: Học máy cổ điển — Phục vụ: sơ loại*
 
-> **Lưu ý về tên file**: Bạn đặt tên file là "Hoi quy tuyen tinh.md" nhưng nội dung buổi 05 là về **hồi quy logistic** (logistic regression), không phải hồi quy tuyến tính (buổi 04 mới là hồi quy tuyến tính). Mình giữ nguyên tên file bạn yêu cầu, chỉ lưu ý để bạn không nhầm lẫn khi tìm lại tài liệu sau này.
-
 ---
 
 ## 0. Vì sao buổi này tồn tại — sợi dây nối với buổi 04
